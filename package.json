@@ -1,0 +1,27 @@
+{
+  "name": "512_seeding_points_calc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinytheyfon8/512_seeding_points_calc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinytheyfon8/512_seeding_points_calc/issues"
+  },
+  "homepage": "https://github.com/tinytheyfon8/512_seeding_points_calc#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "domparser": "^0.1.1",
+    "puppeteer": "^1.14.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
